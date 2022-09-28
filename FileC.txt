@@ -1,1 +1,2 @@
-This is FileC
+This is FileB
+A file b is updated
